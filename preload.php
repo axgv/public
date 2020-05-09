@@ -1,1 +1,1 @@
-https://www.supremenewyork.com/shop/accessories/aecyla39b/e8nj47dhq
+https://www.supremenewyork.com/shop/accessories/lfug1bnz7/e8nj47dhq
