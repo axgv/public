@@ -1,6 +1,6 @@
 [value*="add to"] {
-	background: #ff6a6a!important;
-	border: #ff6a6a!important;
+	background: #e03470!important;
+	border: #e03470!important;
 }
 
 
@@ -9,7 +9,7 @@
 }
 
 
-#cart [href="https://www.supremenewyork.com/checkout"] {
+#cart [href*=".com/checkout"] {
 	
 }
 
