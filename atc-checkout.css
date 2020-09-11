@@ -1,0 +1,19 @@
+[value*="add to"] {
+	background: #ff6a6a!important;
+	border: #ff6a6a!important;
+}
+
+
+[placeholder="number"] {
+	border-right: #7b6e6e 3px solid!important;
+}
+
+
+#cart [href="https://www.supremenewyork.com/checkout"] {
+	
+}
+
+
+[class*="cancel"] {
+	border-right: #8a8689 2px solid!important;
+}
