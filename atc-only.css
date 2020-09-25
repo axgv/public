@@ -2,3 +2,13 @@
 	background: #e03470!important;
 	border: #e03470!important;
 }
+
+
+#wrap > * {
+  opacity: 1!important;
+  transition: none!important;
+}
+
+a[href*="/checkout"] {
+background: #de5449!important;	
+}
