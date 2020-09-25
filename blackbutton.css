@@ -4,3 +4,14 @@ background: black!important;
 border: black!important;
 
 }
+
+
+
+#wrap > * {
+  opacity: 1!important;
+  transition: none!important;
+}
+
+a[href*="/checkout"] {
+background: #de5449!important;	
+}
