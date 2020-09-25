@@ -25,6 +25,3 @@
   transition: none!important;
 }
 
-a[href*="/checkout"] {
-background: #de5449!important;	
-}
