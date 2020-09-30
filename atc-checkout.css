@@ -24,7 +24,3 @@
   opacity: 1!important;
   transition: none!important;
 }
-
-[class*="cancel"] {
-	border-right: #8a8689 2px solid!important;
-}
