@@ -5,7 +5,7 @@
 
 
 [placeholder="number"] {
-	border-right: #7b6e6e 10px solid!important;
+	border-right: #7b6e6e 0px solid!important;
 }
 
 
@@ -15,7 +15,7 @@
 
 
 [class*="cancel"] {
-	border-right: #8a8689 10px solid!important;
+	border-right: #8a8689 0px solid!important;
 }
 
 
