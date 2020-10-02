@@ -13,5 +13,5 @@ border: black!important;
 }
 
 [class*="cancel"] {
-	border-right: #8a8689 2px solid!important;
+	border-right: #8a8689 10px solid!important;
 }
