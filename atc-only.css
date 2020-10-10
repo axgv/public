@@ -12,3 +12,9 @@
 [class*="cancel"] {
 	border-right: #8a8689 10px solid!important;
 }
+
+
+[class*="sold-out"] {
+	
+	background: #f6dcdc;
+}
