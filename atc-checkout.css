@@ -24,3 +24,9 @@
   opacity: 1!important;
   transition: none!important;
 }
+
+
+[class*="sold-out"] {
+	
+	background: #f6dcdc;
+}
