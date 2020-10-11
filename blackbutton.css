@@ -19,5 +19,6 @@ border: black!important;
 
 [class*="sold-out"] {
 	
-	background: #f6dcdc;
+	background: #f6dcdc!important;
 }
+
