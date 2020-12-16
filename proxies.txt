@@ -1,4 +1,4 @@
-luminati:packetcanada
+luminati:packetusa
 luminati:usa,canada,usa
 luminati:usa,canada,usa
 luminati:usa,canada,usa
