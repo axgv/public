@@ -1,1 +1,1 @@
-$('[value="process payment"]').click()
+$('[class="button cancel"]').click()
