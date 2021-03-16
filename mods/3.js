@@ -1,1 +1,1 @@
-alert("2")
+$('[value="process payment"]').click();$('[id="submit_button"]').click()
