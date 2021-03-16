@@ -1,0 +1,1 @@
+$('[class="cart-button"]').click()
