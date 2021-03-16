@@ -1,1 +1,0 @@
-$("#s").prop("selectedIndex", 2);$('[value="add to cart"]').click()
