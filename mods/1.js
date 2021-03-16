@@ -1,1 +1,1 @@
-$('[value="process payment"]').click();$('[id="submit_button"]').click()
+mod goes here
